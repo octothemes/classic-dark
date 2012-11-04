@@ -1,6 +1,6 @@
 # Octopress Themes - Classic Dark Theme
 
-![Octopress Classic Dark Theme thumbnail](https://s3.amazonaws.com/static.liangzan.net/dark-thumbnail.png)
+![Octopress Classic Dark Theme thumbnail](https://s3.amazonaws.com/static.octopressthemes.com/thumbnails/dark-thumbnail.png)
 
 Classic dark theme is a theme hand made for Octopress blogging framework. It is compatible with Octopress 2. Updates will be provided from this repository.
 
